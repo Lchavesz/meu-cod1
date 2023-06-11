@@ -5,7 +5,7 @@ function abrirPagina(url) {
 function abrirNovaPagina() {
     var resposta = confirm("Deseja abrir outra página?");
     if (resposta) {
-        abrirPagina("momo.html");
+        abrirPagina("https://lchavesz.github.io/meu-cod2/");
     }
 }
 
